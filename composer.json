@@ -1,5 +1,6 @@
 {
     "name": "softlinecy/calculated-field",
+    "version": "v1.1.0",
     "description": "A server side calculated field for Laravel Nova",
     "keywords": [
         "laravel",
